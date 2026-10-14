@@ -1,0 +1,14 @@
+C:\Users\Dave\Downloads\files\bin\Release\net8.0-windows\win-x64\HdrTray.exe
+C:\Users\Dave\Downloads\files\bin\Release\net8.0-windows\win-x64\HdrTray.deps.json
+C:\Users\Dave\Downloads\files\bin\Release\net8.0-windows\win-x64\HdrTray.runtimeconfig.json
+C:\Users\Dave\Downloads\files\bin\Release\net8.0-windows\win-x64\HdrTray.dll
+C:\Users\Dave\Downloads\files\bin\Release\net8.0-windows\win-x64\HdrTray.pdb
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.AssemblyInfoInputs.cache
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.AssemblyInfo.cs
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.dll
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\refint\HdrTray.dll
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.pdb
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\HdrTray.genruntimeconfig.cache
+C:\Users\Dave\Downloads\files\obj\Release\net8.0-windows\win-x64\ref\HdrTray.dll
